@@ -14,14 +14,13 @@ For synthesised images,
 
 Google Drive: [Link](https://drive.google.com/drive/folders/13uTBF7-YkqtpGNjc9QvqzaBfBJ5fe7-w?usp=drive_link)
 
-Aliyunpan: [Link](https://www.alipan.com/s/PYjvaVepPeR)
-
 We are currently reviewing the corresponding pristine images and prompts, and will conditionally release them in the near future.
 
 ## Citation
 
 If you find this work helps, please cite our paper:
 
+```
 @misc{cheng2024diffusion,
       title={Diffusion Facial Forgery Detection}, 
       author={Harry Cheng and Yangyang Guo and Tianyi Wang and Liqiang Nie and Mohan Kankanhalli},
@@ -30,3 +29,6 @@ If you find this work helps, please cite our paper:
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
+```
+
+
