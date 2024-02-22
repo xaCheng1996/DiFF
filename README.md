@@ -1,5 +1,7 @@
 # Diffusion Facial Forgery Detection
 
+![Teaser_Figure](./Image/Teaser_Figure.png)
+
 This repository contains the DiFF dataset proposed in our paper, [Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)
 
 [PDF](https://arxiv.org/abs/2401.15859)
@@ -16,7 +18,11 @@ Google Drive: [Link](https://drive.google.com/drive/folders/13uTBF7-YkqtpGNjc9Qv
 
 For Pristine images, please fill this [google form](https://forms.gle/qRM1iZMLSTEymczN7) for the accessment.
 
-We are currently reviewing the corresponding pristine images and prompts, and will conditionally release them in the near future.
+We are currently reviewing the corresponding prompts, and will conditionally release them in the near future.
+
+## Preview
+
+![Mid](./Image/Visual_Full.jpg)
 
 ## Citation
 
@@ -32,5 +38,4 @@ If you find this work helps, please cite our paper:
       primaryClass={cs.CV}
 }
 ```
-
 
