@@ -2,9 +2,9 @@
 
 ![Teaser_Figure](./Image/Teaser_Figure.png)
 
-This repository contains the DiFF dataset proposed in our paper, [Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)
+DiFF -- a diffusion-generated facial forgery dataset encompassing over half a million images. The dataset contains over 500,000 manipulated images created by thirteen state-of-the-art methods under four distinct conditions.
 
-[PDF](https://arxiv.org/abs/2401.15859)
+This repository contains the DiFF dataset proposed in our paper, [Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)
 
 ## Abstract
 
