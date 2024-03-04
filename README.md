@@ -16,9 +16,7 @@ For synthesised images,
 
 Google Drive: [Link](https://drive.google.com/drive/folders/13uTBF7-YkqtpGNjc9QvqzaBfBJ5fe7-w?usp=drive_link)
 
-For Pristine images, please fill this [google form](https://forms.gle/qRM1iZMLSTEymczN7) for the accessment.
-
-We are currently reviewing the corresponding prompts, and will conditionally release them in the near future.
+For Pristine images and prompts, please fill this [google form](https://forms.gle/qRM1iZMLSTEymczN7) for the accessment.
 
 ## Preview
 
